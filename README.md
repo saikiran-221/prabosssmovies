@@ -75,7 +75,7 @@
 </style>
 </head>
 
-<body style="background-color: black;
+<body style="background-color: rgb(173, 250, 173) ;
              padding-bottom: 100px;">
             
             <header>
@@ -89,8 +89,8 @@
             </header>
 
     <main>
-    <h1 style=" background-color: blue;
-    color: black;
+    <h1 style=" background-color:rgb(71, 198, 241) ;
+    color: white;
         font-family: arial;
         font-weight: bold;
         text-align: center;"> <strong>PRABHAS MOVIES</strong></h1>
